@@ -1,0 +1,2 @@
+# Seasonality-in-Content-Consumption-Time-Series-Analysis-
+This project simulates and analyzes content usage trends across multiple categories. A synthetic dataset is created using sine functions with added noise to mimic realistic patterns. The project demonstrates time series analysis, decomposition, and forecasting, highlighting periods of high engagement, seasonal trends, and residual variations.
